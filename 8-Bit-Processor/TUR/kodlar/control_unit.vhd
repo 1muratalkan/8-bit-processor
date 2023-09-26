@@ -328,6 +328,7 @@ begin
 				IR_Load <= '0';
 				MAR_Load <= '0';
 				PC_Load <= '0';
+				PC_Inc <= '0';
 				A_Load <= '0';
 			    B_Load <= '0';
 				ALU_Sel <= (others => '0');
