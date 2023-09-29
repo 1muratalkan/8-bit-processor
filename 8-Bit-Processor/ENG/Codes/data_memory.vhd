@@ -18,7 +18,7 @@ end entity;
 architecture arch of data_memory is
 
 type ram_type is array (128 to 223) of std_logic_vector( 7 downto 0); -- 96x8-bit
-signal RAM : ram_type := (others => "00"); -- Initial data is all zero
+signal RAM : ram_type := (others => x"00"); -- Initial data is all zero
  
 signal enable : std_logic;
 
