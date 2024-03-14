@@ -1,2 +1,9 @@
 # FPGA ile 8 Bit İşlemci Projesi
-  8-Bit-Processor
+Lütfen Detaylar İçin Hazırladığım Kapsamlı PDF'i İnceleyiniz. 
+İyi Çalışmalar 
+:)
+
+
+
+Murat Alkan
+
