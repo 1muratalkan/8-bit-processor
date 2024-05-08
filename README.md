@@ -7,4 +7,4 @@ Lütfen Detaylar İçin Hazırladığım Kapsamlı PDF'i İnceleyiniz.
 
 Murat Alkan
 
-![2](https://github.com/1muratalkan/8-bit-processor/blob/main/8%20bit%20i%C5%9Flemci%20(TUR).pdf)
+![PDF dosyası](https://github.com/1muratalkan/8-bit-processor/raw/main/8%20bit%20i%C5%9Flemci%20(TUR).pdf)
