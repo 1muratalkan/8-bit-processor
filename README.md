@@ -9,4 +9,15 @@ Murat Alkan
 
 ![PDF dosyası](https://github.com/1muratalkan/8-bit-processor/raw/main/8%20bit%20i%C5%9Flemci%20(TUR).pdf)
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/1muratalkan/8-bit-processor/raw/main/8%20bit%20i%C5%9Flemci%20(TUR).pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+</head>
+<body>
+    <embed src="https://github.com/1muratalkan/8-bit-processor/raw/main/8%20bit%20i%C5%9Flemci%20(TUR).pdf" type="application/pdf" width="100%" height="600px">
+</body>
+</html>
